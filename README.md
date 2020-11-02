@@ -1,3 +1,3 @@
 # LeetCode Solutions
-**My LeetCode Records**
+**My Records**
 - ~~#1 Two Sum~~
