@@ -13,7 +13,7 @@ class Solution {
 			//当出现不相等情况时，判断两种情况：
 			//1.左指针向右移动一个，右指针不变
 			//2. 右指针向左移动一个，左指针不变
-			//当两种情况中任意一种为回文时，判定为回文
+			//当两种情况中任意一种为回文时，也判定为回文
 			if (s.charAt(i) != s.charAt(j)) {
 				return isPalindrome(s, i+1, j) || isPalindrome(s, i, j-1);
 			}
