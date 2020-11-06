@@ -5,3 +5,4 @@
 - ~~#633 Sum of Square Numbers~~
 - ~~#345 Reverse Vowels of a String~~
 - ~~#680 Valid Palindrome 2~~
+- ~~#141 Linked List Cycle~~
