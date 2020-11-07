@@ -18,7 +18,7 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-		//判断链表表头，若为空则一定不存在环
+		//判断链表表头，若为空则一定不构成环
 		if (head == null) {
 			return false;
 		}
